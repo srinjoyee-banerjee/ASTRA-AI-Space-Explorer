@@ -18,31 +18,31 @@ https://astra-ai-space-explorer-8m4kwggqut23nwydj7ijcj.streamlit.app/
 
 ### Home Screen
 
-![Home](screenshots/home s.png)
+![Home](home s.png)
 
 ---
 
 ### Mission Control
 
-![Mission](screenshots/mission ss.png)
+![Mission](mission ss.png)
 
 ---
 
 ### Deep Space Scanner
 
-![Scanner](screenshots/deep ss.png)
+![Scanner](deep ss.png)
 
 ---
 
 ### AI Prediction
 
-![Prediction](screenshots/obj ss.png)
+![Prediction](obj ss.png)
 
 ---
 
 ### Mission Report
 
-![Report](screenshots/mission summary ss.png)
+![Report](mission summary ss.png)
 
 ---
 
